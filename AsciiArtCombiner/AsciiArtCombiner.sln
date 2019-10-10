@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29311.281
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsciiArtCombiner", "AsciiArtCombiner\AsciiArtCombiner.csproj", "{B8C4F93B-DE9E-4A75-8661-75C0366C6622}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Combiner", "Combiner\Combiner.csproj", "{9C3FBB1D-21E5-4B02-8C50-FA8459B6DA8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8C4F93B-DE9E-4A75-8661-75C0366C6622}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8C4F93B-DE9E-4A75-8661-75C0366C6622}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8C4F93B-DE9E-4A75-8661-75C0366C6622}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8C4F93B-DE9E-4A75-8661-75C0366C6622}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C3FBB1D-21E5-4B02-8C50-FA8459B6DA8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C3FBB1D-21E5-4B02-8C50-FA8459B6DA8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C3FBB1D-21E5-4B02-8C50-FA8459B6DA8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C3FBB1D-21E5-4B02-8C50-FA8459B6DA8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0A7DF4B-9DC2-40C8-9E66-19D8D1944BB4}
+	EndGlobalSection
+EndGlobal
