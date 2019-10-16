@@ -57,8 +57,8 @@ namespace AsciiArtCombiner
         private static bool ReadFile(string fileName)
         {
             try
-            { 
-                var input = System.IO.File.ReadAllLines(fileName);
+            {
+                string[] input = File.ReadAllLines(fileName);
                 listOfReadFiles.Add(input);
                 return true;
             }
